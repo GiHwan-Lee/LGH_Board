@@ -10,7 +10,7 @@
 
 # 설치 및 실행 방법
 
--이 레포지토리를 클론합니다: git clone https://github.com/yourusername/your-repo-name.git
+-이 레포지토리를 클론합니다: git clone https://github.com/GiHwan-Lee/LGH_Board.git
 
 -디렉토리로 이동합니다: cd your-repo-name
 
