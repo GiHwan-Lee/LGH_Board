@@ -11,9 +11,13 @@
 # 설치 및 실행 방법
 
 -이 레포지토리를 클론합니다: git clone https://github.com/yourusername/your-repo-name.git
+
 -디렉토리로 이동합니다: cd your-repo-name
+
 -필요한 npm 패키지를 설치합니다: npm install
+
 -.env 파일을 생성하고, 데이터베이스 연결 정보를 입력합니다.
+
 -애플리케이션을 실행합니다: npm start
 
 # 환경 변수
